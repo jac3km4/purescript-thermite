@@ -1,14 +1,14 @@
 {
     "name": "thermite",
-    "set": "psc-0.10.1",
+    "set": "psc-0.12.1",
     "source": "https://github.com/purescript/package-sets.git",
     "depends": [
       "aff",
       "coroutines",
-      "dom",
       "freet",
       "profunctor-lenses",
       "react",
-      "react"
+      "react-dom",
+      "web-html"
     ]
 }
